@@ -1,0 +1,9 @@
+name: ItemKillTracker
+version: '${project.version}'
+main: me.cyberneticsman.itemkilltracker.ItemKillTracker
+api-version: '1.20'
+commands:
+  kill-tracker:
+    description: Your description
+    usage: /kill-tracker
+    permission: kill-tracker.kill-tracker
